@@ -977,12 +977,14 @@
 		00B7E1EA097E26C600826121 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				SKIP_INSTALL = YES;
 			};
 			name = Debug;
 		};
 		00B7E1EB097E26C600826121 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				SKIP_INSTALL = YES;
 			};
 			name = Release;
 		};
